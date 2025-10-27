@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "M1gu3l", 
+    "username": "Servidor", 
     "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "addonteste-Fz1G.aternos.me", 
-    "port": 29399,   
+    "ip": "miguel101901.aternos.me", 
+    "port": 47845,   
     "version": "1.18.1"   
   },
   
